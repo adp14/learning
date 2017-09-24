@@ -1,3 +1,5 @@
 # learning
 learning to use github
-# fixed typo in title
+
+This is my practice project while I learn to use Github
+
