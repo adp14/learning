@@ -1,2 +1,5 @@
 # learning
-learnign to use github
+learning to use github
+
+This is my practice project while I learn to use Github
+
